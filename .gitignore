@@ -1,0 +1,106 @@
+﻿/.idea/.idea.Kafka Consumer/.idea/.gitignore
+/Kafka Consumer/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/Kafka Producer/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/Kafka Consumer/bin/Debug/net5.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/Kafka Producer/bin/Debug/net6.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/Kafka Consumer/obj/Debug/net5.0/apphost.exe
+/Kafka Producer/obj/Debug/net6.0/apphost.exe
+/Kafka Consumer/bin/Debug/net5.0/runtimes/linux-x64/native/centos6-librdkafka.so
+/Kafka Producer/bin/Debug/net6.0/runtimes/linux-x64/native/centos6-librdkafka.so
+/Kafka Consumer/bin/Debug/net5.0/runtimes/linux-x64/native/centos7-librdkafka.so
+/Kafka Producer/bin/Debug/net6.0/runtimes/linux-x64/native/centos7-librdkafka.so
+/Kafka Consumer/bin/Debug/net5.0/Confluent.Kafka.dll
+/Kafka Producer/bin/Debug/net6.0/Confluent.Kafka.dll
+/.idea/.idea.Kafka Consumer/.idea/encodings.xml
+/.idea/.idea.Kafka Consumer/.idea/indexLayout.xml
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.AssemblyInfo.cs
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.AssemblyInfoInputs.cache
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.assets.cache
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.csproj.AssemblyReference.cache
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.csproj.CopyComplete
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.csproj.CoreCompileInputs.cache
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.csproj.FileListAbsolute.txt
+/Kafka Consumer/obj/Kafka Consumer.csproj.nuget.dgspec.json
+/Kafka Consumer/obj/Kafka Consumer.csproj.nuget.g.props
+/Kafka Consumer/obj/Kafka Consumer.csproj.nuget.g.targets
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.deps.json
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.dll
+/Kafka Consumer/obj/Debug/net5.0/ref/Kafka Consumer.dll
+/Kafka Consumer/obj/Debug/net5.0/refint/Kafka Consumer.dll
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.dll
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.exe
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.genruntimeconfig.cache
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.pdb
+/Kafka Consumer/obj/Debug/net5.0/Kafka Consumer.pdb
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.runtimeconfig.dev.json
+/Kafka Consumer/bin/Debug/net5.0/Kafka Consumer.runtimeconfig.json
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.AssemblyInfo.cs
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.AssemblyInfoInputs.cache
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.assets.cache
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.csproj.AssemblyReference.cache
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.csproj.CopyComplete
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.csproj.CoreCompileInputs.cache
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.csproj.FileListAbsolute.txt
+/Kafka Producer/obj/Kafka Producer.csproj.nuget.dgspec.json
+/Kafka Producer/obj/Kafka Producer.csproj.nuget.g.props
+/Kafka Producer/obj/Kafka Producer.csproj.nuget.g.targets
+/Kafka Producer/bin/Debug/net6.0/Kafka Producer.deps.json
+/Kafka Producer/bin/Debug/net6.0/Kafka Producer.dll
+/Kafka Producer/obj/Debug/net6.0/ref/Kafka Producer.dll
+/Kafka Producer/obj/Debug/net6.0/refint/Kafka Producer.dll
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.dll
+/Kafka Producer/bin/Debug/net6.0/Kafka Producer.exe
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.genruntimeconfig.cache
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.GlobalUsings.g.cs
+/Kafka Producer/bin/Debug/net6.0/Kafka Producer.pdb
+/Kafka Producer/obj/Debug/net6.0/Kafka Producer.pdb
+/Kafka Producer/bin/Debug/net6.0/Kafka Producer.runtimeconfig.json
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/libcrypto-1_1.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/libcrypto-1_1.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/libcrypto-1_1-x64.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/libcrypto-1_1-x64.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/librdkafka.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/librdkafka.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/librdkafka.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/librdkafka.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/osx-x64/native/librdkafka.dylib
+/Kafka Producer/bin/Debug/net6.0/runtimes/osx-x64/native/librdkafka.dylib
+/Kafka Consumer/bin/Debug/net5.0/runtimes/linux-arm64/native/librdkafka.so
+/Kafka Consumer/bin/Debug/net5.0/runtimes/linux-x64/native/librdkafka.so
+/Kafka Producer/bin/Debug/net6.0/runtimes/linux-arm64/native/librdkafka.so
+/Kafka Producer/bin/Debug/net6.0/runtimes/linux-x64/native/librdkafka.so
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/librdkafkacpp.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/librdkafkacpp.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/librdkafkacpp.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/librdkafkacpp.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/libssl-1_1.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/libssl-1_1.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/libssl-1_1-x64.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/libssl-1_1-x64.dll
+/.idea/.idea.Kafka Consumer/.idea/misc.xml
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/msvcp140.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/msvcp140.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/msvcp140.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/msvcp140.dll
+/Kafka Consumer/obj/project.assets.json
+/Kafka Producer/obj/project.assets.json
+/Kafka Consumer/obj/project.nuget.cache
+/Kafka Producer/obj/project.nuget.cache
+/Kafka Consumer/obj/project.packagespec.json
+/Kafka Producer/obj/project.packagespec.json
+/Kafka Consumer/obj/rider.project.restore.info
+/Kafka Producer/obj/rider.project.restore.info
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/vcruntime140.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/vcruntime140.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/vcruntime140.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/vcruntime140.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/zlib1.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/zlib1.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/zlib1.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/zlib1.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x64/native/zstd.dll
+/Kafka Consumer/bin/Debug/net5.0/runtimes/win-x86/native/zstd.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x64/native/zstd.dll
+/Kafka Producer/bin/Debug/net6.0/runtimes/win-x86/native/zstd.dll
